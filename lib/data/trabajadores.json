@@ -1,0 +1,134 @@
+[
+  {
+    "id": "t001",
+    "nombre": "Carlos Mendoza",
+    "categorias": ["plomeria", "plomeria.fugas_menores", "plomeria.tinacos"],
+    "calificacion_global": 4.9,
+    "insignias": ["experiencia_top", "siempre_puntual", "certificado"],
+    "disponible": true,
+    "precio_desde": 300,
+    "precio_hasta": 800,
+    "total_reviews": 32
+  },
+  {
+    "id": "t002",
+    "nombre": "Jorge Ramírez",
+    "categorias": ["plomeria", "plomeria.fugas_menores", "plomeria.lavadora_secadora"],
+    "calificacion_global": 4.6,
+    "insignias": ["siempre_puntual", "trabajador_formal"],
+    "disponible": true,
+    "precio_desde": 250,
+    "precio_hasta": 700,
+    "total_reviews": 19
+  },
+  {
+    "id": "t003",
+    "nombre": "Miguel Angel Torres",
+    "categorias": ["electricidad"],
+    "calificacion_global": 4.7,
+    "insignias": ["experiencia_top", "certificado"],
+    "disponible": true,
+    "precio_desde": 400,
+    "precio_hasta": 1200,
+    "total_reviews": 41
+  },
+  {
+    "id": "t004",
+    "nombre": "Luis Fernando Castro",
+    "categorias": ["electricidad", "seguridad", "seguridad.alarmas"],
+    "calificacion_global": 4.4,
+    "insignias": ["trabajador_formal"],
+    "disponible": true,
+    "precio_desde": 350,
+    "precio_hasta": 1000,
+    "total_reviews": 12
+  },
+  {
+    "id": "t005",
+    "nombre": "Ernesto Valenzuela",
+    "categorias": ["clima", "clima.instalacion_ac", "clima.reparacion_ac"],
+    "calificacion_global": 4.8,
+    "insignias": ["experiencia_top", "siempre_puntual", "trabajador_formal"],
+    "disponible": true,
+    "precio_desde": 500,
+    "precio_hasta": 2000,
+    "total_reviews": 27
+  },
+  {
+    "id": "t006",
+    "nombre": "Rafael Quiroga",
+    "categorias": ["clima", "clima.reparacion_ac", "clima.reparacion_abanicos"],
+    "calificacion_global": 4.5,
+    "insignias": ["certificado"],
+    "disponible": true,
+    "precio_desde": 450,
+    "precio_hasta": 1800,
+    "total_reviews": 22
+  },
+  {
+    "id": "t007",
+    "nombre": "Adrián Soto",
+    "categorias": ["construccion", "construccion.impermeabilizacion", "construccion.albañileria"],
+    "calificacion_global": 4.8,
+    "insignias": ["experiencia_top", "certificado"],
+    "disponible": true,
+    "precio_desde": 1500,
+    "precio_hasta": 6000,
+    "total_reviews": 35
+  },
+  {
+    "id": "t008",
+    "nombre": "Pedro Navarro",
+    "categorias": ["carpinteria", "construccion.tablaroca"],
+    "calificacion_global": 4.6,
+    "insignias": ["trabajador_formal", "siempre_puntual"],
+    "disponible": true,
+    "precio_desde": 500,
+    "precio_hasta": 3000,
+    "total_reviews": 14
+  },
+  {
+    "id": "t009",
+    "nombre": "Servicios Hogar MX",
+    "categorias": ["limpieza", "limpieza.alfombras", "limpieza.colchones", "limpieza.salas", "fumigacion"],
+    "calificacion_global": 4.3,
+    "insignias": ["trabajador_formal"],
+    "disponible": true,
+    "precio_desde": 350,
+    "precio_hasta": 1500,
+    "total_reviews": 9
+  },
+  {
+    "id": "t010",
+    "nombre": "Técnicos Frío Norte",
+    "categorias": ["reparaciones", "reparaciones.refrigeradores", "reparaciones.lavadoras", "reparaciones.secadoras"],
+    "calificacion_global": 4.7,
+    "insignias": ["experiencia_top", "certificado", "siempre_puntual"],
+    "disponible": true,
+    "precio_desde": 400,
+    "precio_hasta": 2500,
+    "total_reviews": 28
+  },
+  {
+    "id": "t011",
+    "nombre": "Andrés Beltrán",
+    "categorias": ["plomeria", "plomeria.fugas_menores"],
+    "calificacion_global": 4.9,
+    "insignias": [],
+    "disponible": true,
+    "precio_desde": 280,
+    "precio_hasta": 750,
+    "total_reviews": 3
+  },
+  {
+    "id": "t012",
+    "nombre": "Plomería Integral del Valle",
+    "categorias": ["plomeria", "plomeria.fugas_menores", "plomeria.tinacos"],
+    "calificacion_global": 4.3,
+    "insignias": ["experiencia_top", "certificado", "siempre_puntual", "trabajador_formal"],
+    "disponible": true,
+    "precio_desde": 320,
+    "precio_hasta": 900,
+    "total_reviews": 180
+  }
+]
